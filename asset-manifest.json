@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alexir/static/css/main.92af58e0.chunk.css",
+    "main.js": "/alexir/static/js/main.4fb0bda9.chunk.js",
+    "main.js.map": "/alexir/static/js/main.4fb0bda9.chunk.js.map",
+    "runtime-main.js": "/alexir/static/js/runtime-main.943c65e6.js",
+    "runtime-main.js.map": "/alexir/static/js/runtime-main.943c65e6.js.map",
+    "static/js/2.040954af.chunk.js": "/alexir/static/js/2.040954af.chunk.js",
+    "static/js/2.040954af.chunk.js.map": "/alexir/static/js/2.040954af.chunk.js.map",
+    "index.html": "/alexir/index.html",
+    "precache-manifest.2140a4f1d65181f7127d703f89c93165.js": "/alexir/precache-manifest.2140a4f1d65181f7127d703f89c93165.js",
+    "service-worker.js": "/alexir/service-worker.js",
+    "static/css/main.92af58e0.chunk.css.map": "/alexir/static/css/main.92af58e0.chunk.css.map",
+    "static/js/2.040954af.chunk.js.LICENSE.txt": "/alexir/static/js/2.040954af.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/alexir/static/media/logo.a986e209.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.943c65e6.js",
+    "static/js/2.040954af.chunk.js",
+    "static/css/main.92af58e0.chunk.css",
+    "static/js/main.4fb0bda9.chunk.js"
+  ]
+}
